@@ -7,7 +7,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","White"],
-      "img":"/images/product-01.jpg",
+      "img":"images/product-01.jpg",
       "category":"women"
   },
   {
@@ -17,7 +17,7 @@
       "price":"35.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-02.jpg",
+      "img":"images/product-02.jpg",
       "category":"women"
        
   },
@@ -28,7 +28,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","White"],
-      "img":"/images/product-03.jpg",
+      "img":"images/product-03.jpg",
       "category":"men"
   },
   {
@@ -38,7 +38,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-04.jpg",
+      "img":"images/product-04.jpg",
       "category":"women"
   },
   {
@@ -48,7 +48,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-05.jpg",
+      "img":"images/product-05.jpg",
       "category":"women"},   
    {
       "id":6,
@@ -57,7 +57,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-06.jpg",
+      "img":"images/product-06.jpg",
       "category":"accessories"
   },
   {
@@ -67,7 +67,7 @@
       "price":"76.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-07.jpg",
+      "img":"images/product-07.jpg",
       "category":"women"
   },
   {
@@ -77,7 +77,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-08.jpg",
+      "img":"images/product-08.jpg",
       "category":"women"
   },
   {
@@ -87,7 +87,7 @@
       "price":"96.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-09.jpg",
+      "img":"images/product-09.jpg",
       "category":"accessories"
   },
   {
@@ -97,7 +97,7 @@
       "price":"35.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-10.jpg",
+      "img":"images/product-10.jpg",
       "category":"women"
        
   },
@@ -108,7 +108,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-11.jpg",
+      "img":"images/product-11.jpg",
       "category":"men"
   },
   {
@@ -118,7 +118,7 @@
       "price":"16.61",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-12.jpg",
+      "img":"images/product-12.jpg",
       "category":"accessories"
   },
   {
@@ -128,7 +128,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-13.jpg",
+      "img":"images/product-13.jpg",
       "category":"women"},   
    {
       "id":14,
@@ -137,7 +137,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-14.jpg",
+      "img":"images/product-14.jpg",
       "category":"women"
   },
   {
@@ -147,7 +147,7 @@
       "price":"76.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-15.jpg",
+      "img":"images/product-15.jpg",
       "category":"accessories"
   },
   {
@@ -157,7 +157,7 @@
       "price":"16.64",
       "Size":["Size s","Sizes M","Size L","Size XL"],
       "color":["Red","Blue","Grey","White"],
-      "img":"/images/product-16.jpg",
+      "img":"images/product-16.jpg",
       "category":"women"
   }
 ],
